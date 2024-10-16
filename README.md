@@ -56,6 +56,6 @@ WHERE CONDITION = TRUE
 
 ### Data sheet
 ---
-[Power_BI_file](https://github.com/Christabel-Glory/Super_Stores_Dashboard/blob/main/SuperStores%20Dashboard.pbix)
+[Power_BI_file](https://github.com/Christabel-Glory/Project_2_Power_BI/blob/main/Project%20Work%202.pbix)
 
 ⭐⭐⭐
